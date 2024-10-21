@@ -1,0 +1,7 @@
+.pokemons-list {
+  list-style: none;
+}
+
+/* This is a simple CSS class to help you understand how does CSS work in React. You can choose whatever css framework you want. 
+Mind that to call this class in React, you need to use the 'className' prop (instead of 'class' in pure HTML).
+*/
