@@ -60,6 +60,8 @@ I have written a few comments in the components files to help you understand how
 
 Having reviewed the code and the project, here are a few points of improvement that you can try to implement :
 
+- remove and replace `favicon` (in the `public` folder)
+- remove and replace application `title` (in the `index.html` file)
 - creation of a button that displays ONLY Pokémon types
 - creation of an input that lets you find and display a Pokémon by entering its name in it
 - when you click on a Pokémon's name, its specs are displayed
